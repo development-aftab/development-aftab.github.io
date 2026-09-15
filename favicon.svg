@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title>Aftab Ali developer mark</title>
+  <desc>Dark square with a green terminal prompt symbol.</desc>
+  <rect width="64" height="64" rx="12" fill="#152020"/>
+  <path d="M16 20 28 32 16 44" fill="none" stroke="#b7eb6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <path d="M34 44h14" stroke="#ff7048" stroke-linecap="round" stroke-width="5"/>
+</svg>
