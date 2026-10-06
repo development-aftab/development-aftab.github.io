@@ -1,12 +1,14 @@
 {
-  "name": "Aftab Ali - Backend Developer and AI Builder",
+  "name": "Aftab Ali | Full-Stack Software & Mobile App Developer",
   "short_name": "Aftab Ali",
-  "description": "Laravel backend development, REST APIs, AI chatbots, and intelligent automation systems.",
+  "description": "Expert Laravel, Node.js, Flutter mobile app development, REST APIs, and AI automation systems by Aftab Ali (Aftab Khoso).",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#f5f2ea",
   "theme_color": "#152020",
+  "orientation": "portrait",
+  "categories": ["portfolio", "development", "technology"],
   "icons": [
     {
       "src": "/favicon.svg",
